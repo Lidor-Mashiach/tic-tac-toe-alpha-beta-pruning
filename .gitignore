@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.pcap
+*.pcapng
+.vscode/
+*.tmp
+*.swp
